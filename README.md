@@ -46,9 +46,9 @@ I would like to continue developing this challenges using react as main resource
 
 ### Useful resources
 
-- [To configure .gitignore file](https://www.toptal.com/developers/gitignore) - This helped me to configure the .gitignore file. I really liked this kind of tools that and will use it going forward.
-- [To learn about frontend resources](https://jonmircha.com/cursos) - This is an amazing spanish channel when do you can learn about HTML5, CSS, React, Git and Github, among others. I'd recommend it to anyone still learning these resources.
+- [www.toptal.com <- To configure .gitignore file](https://www.toptal.com/developers/gitignore) - This helped me to configure the .gitignore file. I really liked this kind of tools that and will use it going forward.
+- [https://jonmircha.com/cursos <- To learn about frontend resources](https://jonmircha.com/cursos) - This is an amazing spanish channel when do you can learn about HTML5, CSS, React, Git and Github, among others. I'd recommend it to anyone still learning these resources.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/seismicman)
+- Frontend Mentor - [@seismicman](https://www.frontendmentor.io/profile/seismicman)
